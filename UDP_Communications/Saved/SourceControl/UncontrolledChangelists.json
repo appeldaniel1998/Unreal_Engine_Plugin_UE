@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/My_Files/Projects/Unreal Engine Projects/Unreal_Engine_Plugin_UE/UDP_Communications/Content/__ExternalActors__/mymap/3/VS/0F1BBOPM7I5Y5N5BW9PCM2.uasset",
+				"D:/My_Files/Projects/Unreal Engine Projects/Unreal_Engine_Plugin_UE/UDP_Communications/Content/Drone/BP_Drone.uasset",
+				"D:/My_Files/Projects/Unreal Engine Projects/Unreal_Engine_Plugin_UE/UDP_Communications/Content/Drone/BPF_PID.uasset",
+				"D:/My_Files/Projects/Unreal Engine Projects/Unreal_Engine_Plugin_UE/UDP_Communications/Content/Drone/EngineComponent.uasset",
 				"D:/My_Files/Projects/Unreal Engine Projects/UDP_Communications/Content/BP_UDP_Actor.uasset",
 				"D:/My_Files/Projects/Unreal Engine Projects/UDP_Communications/Content/myActor.uasset",
 				"D:/My_Files/Projects/Unreal Engine Projects/UDP_Communications/Content/Drone/Assets/Drone_fbx_7_4_binary.uasset",
