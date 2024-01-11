@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Plugins\\SocketIOClient\\Source\\SocketIOLib\\SocketIOLib.Build.cs",
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Plugins\\SocketIOClient\\Source\\CoreUtility\\CoreUtility.Build.cs",
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Plugins\\SocketIOClient\\Source\\SIOJson\\SIOJson.Build.cs",
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Plugins\\SocketIOClient\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Plugins\\SocketIOClient\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Plugins\\UDP-Unreal\\Source\\UDPWrapper\\UDPWrapper.Build.cs",
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Intermediate\\Source\\UDP_Communications.Build.cs",
+		"D:\\My_Files\\Projects\\Unreal Engine Projects\\Unreal_Engine_Plugin_UE\\UDP_Communications 5.2\\Intermediate\\Source\\UDP_Communications.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
